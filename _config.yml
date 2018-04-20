@@ -62,4 +62,7 @@ collections:
     permalink: /:collection/:path/
   landings:
     output: true
-    permalink: /:collection/:path/    
+    permalink: /:collection/:path/
+  committee:
+    output: true
+    permalink: /:collection/:path/        
