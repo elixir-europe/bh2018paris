@@ -1,6 +1,7 @@
 --- 
 layout: landing 
 ---
+{% assign latest_landing = site.landings | last %}
 <!-- Banner -->
 <section id="banner">
 	<div class="inner">
@@ -28,6 +29,11 @@ layout: landing
 						<span class="label">Lorem</span>
 					</div>
 				</li>
+				<li>
+					<div class="cost-logo">
+						<span class="label">Lorem</span>
+					</div>
+				</li>				
 			</ul>
 		</div>
 		<ul class="actions">
@@ -44,11 +50,7 @@ layout: landing
 	<div class="inner">
 		<header class="major">
 			<h2>Background</h2>
-			<p>ELIXIR France with the support of the ELIXIR Hub and the ELIXIR interoperability platform and in collaboration with COST
-				CHARME, the National Bioscience Database Center (NBDC) and the Database Center for Life Science (DBCLS), is organising
-				a BioHackathon in November 2018 in Paris. This BioHacakthon will complement and work in collaboration with the BioHackathon
-				planned in Japan at the end of 2018.
-			</p>
+			<p>{{ latest_landing.background | markdownify }}</p>
 		</header>
 
 		<!-- <ul class="icons major">
@@ -67,10 +69,7 @@ layout: landing
 		</div>
 		<div class="content">
 			<h2>Scope</h2>
-			<p>The topics of this biohackathon will go beyond semantics and interoperability, which are typically predominant in the
-				BioHackathons organised in Japan. The priority topics will be defined by ELIXIR platforms (data, tools, compute, interoperability and training), ELIXIR
-				communities (eg. metabolomics and proteomics), a selection of new tools and communities (eg. Cytoscape and reproducible
-				networks) proposed by ELIXIR France, and common challenges proposed for the sister BioHackathon organised in Japan.</p>				
+			<p>{{ latest_landing.scope | markdownify }}</p>				
 		</div>
 	</section>
 	<section class="spotlight">
@@ -130,7 +129,7 @@ layout: landing
 <section id="two" class="wrapper alt style2">
 	<section class="spotlight">
 		<div class="image">
-			<img src="images/pic01.jpg" alt="" />
+			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11589.010802962744!2d2.547620401353242!3d48.53714440328873!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xbf1eeca4d555cc06!2sCh%C3%A2teauform&#39;+Les+Berges+de+Seine!5e0!3m2!1sen!2suk!4v1524233589137" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 		</div>
 		<div class="content">
 			<h2>Venue</h2>
