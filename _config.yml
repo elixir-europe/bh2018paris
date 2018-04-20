@@ -4,12 +4,7 @@
 # Site settings
 title: BioHackaton 2018
 description: |
-  **Paris - November - 2018** \\
-  ELIXIR France \\
-  ELIXIR Hub \\
-  ELIXIR interoperability platform \\
-  National Bioscience Database Center (NBDC) \\
-  Database Center for Life Science (DBCLS)
+  **Paris - November - 2018**
 owner: Elixir HUB # or company name
 first_published: 2018 # if migrating another site, the year of your first publish
 email: arcila@ebi.ac.uk
