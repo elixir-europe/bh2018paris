@@ -4,7 +4,7 @@
 # Site settings
 title: BioHackaton 2018
 description: |
-  **Paris - November - 2018**
+  **Paris - November**
 owner: Elixir HUB # or company name
 first_published: 2018 # if migrating another site, the year of your first publish
 email: arcila@ebi.ac.uk
@@ -55,3 +55,8 @@ social:
 markdown: kramdown
 #sass:
 #  style: compressed
+
+collections:
+  programmes:
+    output: true
+    permalink: /:collection/:path/
