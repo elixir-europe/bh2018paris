@@ -1,2 +1,2 @@
-# biohackaton.github.io
-BioHackaton event website
+# biohackathon.github.io
+BioHackathon event website
