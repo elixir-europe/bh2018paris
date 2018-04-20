@@ -5,8 +5,8 @@ author: Ricardo
 ---
 |               | Symposium                  | Hackathon                                                 |
 |---------------|----------------------------|---------------|---------------|---------------|-----------| 
-|               | Nov 12                     | Nov 13        | Nov 14        | Nov 15        | Nov 16    | 
-| 07:00 - 09:00 | Collocated meetings (COST) | Breakfast     | Breakfast     | Breakfast     | Breakfast | 
+|               | **Nov 12**                     | **Nov 13**        | **Nov 14**        | **Nov 15**        | **Nov 16**    | 
+| 07:00 - 09:00 |  | Breakfast     | Breakfast     | Breakfast     | Breakfast | 
 | 09:00 - 11:30 | Collocated meetings (COST) | Hack          | Hack          | Hack          | Hack      | 
 | 11:30 - 12:00 | Collocated meetings (COST) | Hack          | Report        | Report        | Report    | 
 | 12:00 - 13:00 | Lunch                      | Lunch         | Lunch         | Lunch         | Lunch     | 
