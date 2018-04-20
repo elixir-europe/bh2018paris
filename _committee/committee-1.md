@@ -5,7 +5,7 @@ author: Ricardo
 ---
 ## Programme
 
-**NAME**|**INSTITUTE**|**ROLE**
+**Name**|**institute**|**role**
 :-----|:-----:|-----:
 Victoria Dominguez Del Angel|French Institute of Bioinformatics (IFB)|Local organiser/PC member
 Rafa C Jimenez|ELIXIR Hub|Programme lead
@@ -13,6 +13,13 @@ Toshiaki Katayama|DBCLS|PC member
 Leyla J Garcia|EMBL-EBI|PC member
 Simon Jupp|EMBL-EBI|PC member
 Sirarat Sarntivijai|ELIXIR Hub|PC member
+Carole Goble|"The University of Manchester"|Advisor
+Chris Evelo|Maastricht University|Advisor
+Marc Hanauer|INSERM|PC member
+Denis Thieffry|The École normale supérieure|PC member
+Jacques van-Helden|Aix-Marseille Université|PC member
+Claudine Médigue|UMR CEA/CNRS|PC member
+Benno Schwikowsky|Institut Pasteur|PC member
 
 ## Logistics
 
