@@ -935,6 +935,15 @@ button,
 			width: 100%;
 		}
 	}
+	.google-maps {
+		@include vendor('order',
+		'1');
+		border-radius: 0;
+		width: 60%;
+		iframe {
+			width: 100%;			
+		}
+	}
 	.content {
 		@include padding(2em,
 		4em);
@@ -957,6 +966,9 @@ button,
 		.image {
 			width: 45%;
 		}
+		.google-maps {
+			width: 45%;
+		}
 		.content {
 			width: 55%;
 		}
@@ -967,6 +979,9 @@ button,
 			display: none;
 		}
 		.image {
+			width: 100%;
+		}
+		.google-maps {
 			width: 100%;
 		}
 		.content {
