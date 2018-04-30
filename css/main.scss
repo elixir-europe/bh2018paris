@@ -435,6 +435,18 @@ input[type="radio"] {
 	}
 }
 
+.google-maps {
+
+	@include vendor('order',
+	'1');
+	border-radius: 0;
+	width: 60%;
+	iframe {
+		width: 100%;			
+		margin: 0 0 4em 0;
+	}
+}
+
 /* Icon */
 
 .icon {
@@ -941,7 +953,8 @@ button,
 		border-radius: 0;
 		width: 60%;
 		iframe {
-			width: 100%;			
+			width: 100%;
+			margin: initial;
 		}
 	}
 	.content {
@@ -1253,6 +1266,25 @@ button,
 				text-transform: uppercase;
 				@include breakpoint(small) {
 					line-height: 3em;
+				}
+			}
+			.sub-item {
+				display: block;
+				margin: 0.5em 0 0 0;
+				padding: 0em 0 0 0.5em;
+				>a {
+					margin: 0 0 0 1em;
+					border: 0;
+					color: inherit;
+					display: inline-block;
+					font-size: 0.65em;
+					letter-spacing: _size(letter-spacing-alt);
+					outline: 0;
+					text-decoration: none;
+					text-transform: uppercase;
+					@include breakpoint(small) {
+						line-height: 3em;
+					}					
 				}
 			}
 		}
