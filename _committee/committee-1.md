@@ -7,7 +7,7 @@ author: Ricardo
 
 **NAME**|**INSTITUTEe**|**ROLE**
 :-----|:-----:|-----:
-Victoria Dominguez Del Angel|Elixir-FR/[IFB]https://www.france-bioinformatique.fr/" target="_blank)|Local organiser/Programme lead
+Victoria Dominguez Del Angel|Elixir-FR/[IFB](https://www.france-bioinformatique.fr/" target="_blank)|Local organiser/Programme lead
 Rafa C Jimenez|ELIXIR Hub|Programme lead
 Toshiaki Katayama|DBCLS|PC member
 Leyla J Garcia|EMBL-EBI|PC member
