@@ -18,7 +18,7 @@ Chris Evelo|Maastricht University|Advisor
 Marc Hanauer|INSERM|PC member
 Denis Thieffry|The École normale supérieure|PC member
 Jacques van Helden|Aix-Marseille Université|PC member
-Claudine Médigue|Elixir-FR/[IFB](https://www.france-bioinformatique.fr/ "IFB"|PC member
+Claudine Médigue|Elixir-FR/[IFB](https://www.france-bioinformatique.fr/ "IFB")|PC member
 Benno Schwikowsky|Institut Pasteur|PC member
 David Salgado|Aix-Marseille Université|PC member
 
@@ -29,7 +29,7 @@ David Salgado|Aix-Marseille Université|PC member
 Dana Cernoskova|ELIXIR Hub|Admin lead
 Kelly Bannett|EMBL EBI|Purchusing department
 Delphine Boisard|Chateuform|Venue
-Victoria Dominguez Del Angel|Elixir-FR/[IFB](https://www.france-bioinformatique.fr/ "IFB"|Local organiser
+Victoria Dominguez Del Angel|Elixir-FR/[IFB](https://www.france-bioinformatique.fr/ "IFB")updated committee-1.md|Local organiser
 Toshiaki Katayama|DBCLS|Advisor
 Maxine|Res2000|Venue
 Ricardo Arcila|ELXIR Hub|Website
