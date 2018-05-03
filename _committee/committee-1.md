@@ -20,6 +20,7 @@ Denis Thieffry|The École normale supérieure|PC member
 Jacques van Helden|Aix-Marseille Université|PC member
 Claudine Médigue|UMR CEA/CNRS|PC member
 Benno Schwikowsky|Institut Pasteur|PC member
+David Salgado|Aix-Marseille Université|PC member
 
 ## Logistics
 
