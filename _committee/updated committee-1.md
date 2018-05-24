@@ -27,7 +27,7 @@ David Salgado|Aix-Marseille Université|PC member
 **NAME**|**INSTITUTE**|**ROLE**
 :-----|:-----:|-----:
 Dana Cernoskova|ELIXIR Hub|Admin lead
-Kelly Bannett|EMBL EBI|Purchusing department
+Kelly Bannett|EMBL EBI|Purchasing department
 Delphine Boisard|Chateuform|Venue
 Victoria Dominguez Del Angel|Elixir-FR/[IFB](https://www.france-bioinformatique.fr/ "IFB")|Local organiser
 Toshiaki Katayama|DBCLS|Advisor
