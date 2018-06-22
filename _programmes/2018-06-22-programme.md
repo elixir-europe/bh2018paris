@@ -11,13 +11,6 @@ author: Ricardo
             <table>
                 <tbody>
                     <tr>
-                        <td class="time">09:00 - 11:30</td>
-                        <td class="event" rowspan="2">Collocated meetings (COST)</td>
-                    </tr>
-                    <tr>
-                        <td class="time">11:30 - 12:00</td>
-                    </tr>
-                    <tr>
                         <td class="time">12:00 - 13:00</td>
                         <td class="event">Lunch</td>
                     </tr>
@@ -71,8 +64,6 @@ author: Ricardo
                 </tbody>
             </table>
         </div>
-    </div>
-    <div class="row">
         <div class="col-md-6 day">
             <h3>Hackathon - Nov 14</h3>
             <table>
@@ -143,9 +134,7 @@ author: Ricardo
                 </tbody>
             </table>
         </div>
-    </div>
-    <div class="row">
-        <div class="col-md-12 day">
+        <div class="col-md-6 day">
             <h3>Hackathon - Nov 16</h3>
             <table>
                 <tbody>
@@ -166,7 +155,7 @@ author: Ricardo
                         <td class="event">Lunch</td>
                     </tr>
                     <tr>
-                        <td class="time">13:00 - 19:00</td>
+                        <td class="time">13:00 - 14:30</td>
                         <td class="event">Writethon</td>
                     </tr>
                 </tbody>
