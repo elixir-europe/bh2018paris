@@ -30,7 +30,7 @@ author: Ricardo
             </table>
         </div>
         <div class="col-md-6 day">
-            <h3>Hackathon - Nov 12</h3>
+            <h3>Hackathon - Nov 13</h3>
             <table>
                 <tbody>
                     <tr>
