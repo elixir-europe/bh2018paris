@@ -3,8 +3,7 @@
 
 # Site settings
 title: BioHackathon 2018 Paris
-description: |
-  **November 12th - 16th, Campus des berges de Seine**
+description: November 12th - 16th, Campus des berges de Seine
 owner: Elixir HUB # or company name
 first_published: 2018 # if migrating another site, the year of your first publish
 email: arcila@ebi.ac.uk
