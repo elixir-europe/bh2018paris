@@ -5,7 +5,7 @@ author: Ricardo
 ---
 ## Programme
 
-**NAME**|**INSTITUTE**|**Responsability**
+**NAME**|**INSTITUTE**|**Responsibility**
 :-----|:-----:|-----:
 Victoria Dominguez Del Angel|Elixir-FR/[IFB](https://www.france-bioinformatique.fr/ "IFB")|Local organiser/Social activities coordinator/Collocated meetings coordinator
 Rafa C Jimenez|ELIXIR Hub|Programme lead
