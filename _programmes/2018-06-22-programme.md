@@ -6,12 +6,12 @@ author: Ricardo
 
 <div id="programme" >
     <div class="row">
-        <div class="col-md-6 day">
+        <div class="col-md-12 day">
             <h3>Symposium - Nov 12</h3>
 <table class="schedule-table">
                 <tbody>
                     <tr>
-                        <td class="time" style="width: 150px;">12:00 - 13:00</td>
+                        <td class="time">12:00 - 13:00</td>
                         <td class="event">Registration and Lunch</td>
                         <td class="speaker">BH participatns</td>
                     </tr>
@@ -20,8 +20,8 @@ author: Ricardo
                         <td class="event">Opening and welcome</td>
                         <td class="speaker">The Organising Committee</td>
                     </tr>
-                    <tr class="schedule-theme-row" style="background-color: lightgray;">
-                        <td class="time">13:10 - 13:30</td><td class="event"><h3>Text mining</h3></td><td class="speaker"><h3 style="margin: 0px;color:#ed4933;" id="data">Data</h3></td>
+                    <tr class="schedule-theme-row">
+                        <td class="time">13:10 - 13:30</td><td class="event"><h3>Text mining</h3></td><td class="speaker"><h3 id="data">Data</h3></td>
                     </tr>
                     <tr class="schedule-table-project">
                         <td class="time"></td>
@@ -34,15 +34,15 @@ author: Ricardo
                     </tr>                
     				<tr class="schedule-table-project">
                         <td class="time"></td>
-                        <td class="event" style="font-size:80%;">
+                        <td class="event">
                             <a href="https://github.com/elixir-europe/BioHackathon/tree/master/data/Improve%20Orphanet%20disease%20description%20knowledge%20by%20Phenotypic%20automated%20recognition%20using%20Monarch%20PhenoScrapper" target="_blank">Improve Orphanet disease description knowledge by Phenotypic automated recognition using Monarch PhenoScrapper
                                 <i class="fab fa-github" aria-hidden="true"></i>
                             </a>
                         </td>
-                        <td class="speaker" style="font-size:80%;">Marc Hanauer</td>
+                        <td class="speaker">Marc Hanauer</td>
                     </tr>                  
-                    <tr class="schedule-theme-row" style="background-color: lightgray;">
-                        <td class="time">13:30 - 14:20</td><td class="event"><h3>STRUCTURED METADATA</h3></td><td class="speaker"><h3 style="color:#ed4933" id="interoperability">INTEROP</h3></td>
+                    <tr class="schedule-theme-row">
+                        <td class="time">13:30 - 14:20</td><td class="event"><h3>STRUCTURED METADATA</h3></td><td class="speaker"><h3 id="interoperability">INTEROP</h3></td>
                     </tr>
                     <tr class="schedule-table-project">
                         <td class="time"></td>
@@ -93,8 +93,8 @@ author: Ricardo
                     <tr class="schedule-break-row">
                         <td class="time">14:20 - 14:50</td><td class="event"><h3>COFFEE BREAK</h3></td><td></td>
                     </tr>                               
-                    <tr class="schedule-theme-row" style="background-color: lightgray;">
-                        <td class="time">14:50 - 15:10</td><td class="event"><h3>IDENTIFIERS</h3></td><td class="speaker"><h3 style="color:#ed4933" id="interoperability">INTEROP</h3></td>
+                    <tr class="schedule-theme-row">
+                        <td class="time">14:50 - 15:10</td><td class="event"><h3>IDENTIFIERS</h3></td><td class="speaker"><h3 id="interoperability">INTEROP</h3></td>
                     </tr>
                     <tr class="schedule-table-project">
                         <td class="time"></td>
@@ -114,8 +114,8 @@ author: Ricardo
                         </td>
                         <td class="speaker">Richard Shute</td>
                     </tr>                                       
-                    <tr class="schedule-theme-row" style="background-color: lightgray;">
-                        <td class="time">15:10 - 15:40</td><td class="event"><h3>DATA DISTRIBUTION</h3></td><td class="speaker"><h3 style="color:#ed4933" id="interoperability">INTEROP</h3></td>
+                    <tr class="schedule-theme-row">
+                        <td class="time">15:10 - 15:40</td><td class="event"><h3>DATA DISTRIBUTION</h3></td><td class="speaker"><h3 id="interoperability">INTEROP</h3></td>
                     </tr>
                     <tr class="schedule-table-project">
                         <td class="time"></td>
@@ -144,8 +144,8 @@ author: Ricardo
                         </td>
                         <td class="speaker">Noemi del Toro</td>
                     </tr>                                                           
-                    <tr class="schedule-theme-row" style="background-color: lightgray;">
-                        <td class="time">15:40 - 16:20</td><td class="event"><h3>DATA INTEGRATION</h3></td><td class="speaker"><h3 style="color:#ed4933" id="interoperability">INTEROP</h3></td>
+                    <tr class="schedule-theme-row">
+                        <td class="time">15:40 - 16:20</td><td class="event"><h3>DATA INTEGRATION</h3></td><td class="speaker"><h3 id="interoperability">INTEROP</h3></td>
                     </tr>
                     <tr class="schedule-table-project">
                         <td class="time"></td>
@@ -183,8 +183,8 @@ author: Ricardo
                         </td>
                         <td class="speaker">Leyla Garcia</td>
                     </tr>                       
-                    <tr class="schedule-theme-row" style="background-color: lightgray;">
-                        <td class="time">16:20 - 16:40</td><td class="event"><h3>VALIDATION</h3></td><td class="speaker"><h3 style="color:#ed4933" id="interoperability">INTEROP</h3></td>
+                    <tr class="schedule-theme-row">
+                        <td class="time">16:20 - 16:40</td><td class="event"><h3>VALIDATION</h3></td><td class="speaker"><h3 id="interoperability">INTEROP</h3></td>
                     </tr>
                     <tr class="schedule-table-project">
                         <td class="time"></td>
@@ -204,8 +204,8 @@ author: Ricardo
                         </td>
                         <td class="speaker">Simon Jupp</td>
                     </tr>                                 
-                    <tr class="schedule-theme-row" style="background-color: lightgray;">
-                        <td class="time">16:40 - 16:50</td><td class="event"><h3>CONTAINERS</h3></td><td class="speaker"><h3 style="color:#ed4933" id="interoperability">TOOLS</h3></td>
+                    <tr class="schedule-theme-row">
+                        <td class="time">16:40 - 16:50</td><td class="event"><h3>CONTAINERS</h3></td><td class="speaker"><h3 id="interoperability">TOOLS</h3></td>
                     </tr>
                     <tr class="schedule-table-project">
                         <td class="time"></td>
@@ -216,8 +216,8 @@ author: Ricardo
                         </td>
                         <td class="speaker">Jacques van Helden</td>
                     </tr>                                       
-                    <tr class="schedule-theme-row" style="background-color: lightgray;">
-                        <td class="time">16:50 - 17:00</td><td class="event"><h3>TOOLS DISCOVERY</h3></td><td class="speaker"><h3 style="color:#ed4933" id="interoperability">TOOLS</h3></td>
+                    <tr class="schedule-theme-row">
+                        <td class="time">16:50 - 17:00</td><td class="event"><h3>TOOLS DISCOVERY</h3></td><td class="speaker"><h3 id="interoperability">TOOLS</h3></td>
                     </tr>
                     <tr class="schedule-table-project">
                         <td class="time"></td>
@@ -231,8 +231,8 @@ author: Ricardo
                     <tr class="schedule-break-row">
                         <td class="time">17:00 - 17:30</td><td class="event"><h3>COFFEE BREAK</h3></td><td></td>
                     </tr>                                 
-                    <tr class="schedule-theme-row" style="background-color: lightgray;">
-                        <td class="time">17:30 - 17:40</td><td class="event"><h3>VISUALISATION</h3></td><td class="speaker"><h3 style="color:#ed4933" id="interoperability">TOOLS</h3></td>
+                    <tr class="schedule-theme-row">
+                        <td class="time">17:30 - 17:40</td><td class="event"><h3>VISUALISATION</h3></td><td class="speaker"><h3 id="interoperability">TOOLS</h3></td>
                     </tr>
                     <tr class="schedule-table-project">
                         <td class="time"></td>
@@ -243,8 +243,8 @@ author: Ricardo
                         </td>
                         <td class="speaker">Yo Yehudi</td>
                     </tr>                                     
-                    <tr class="schedule-theme-row" style="background-color: lightgray;">
-                        <td class="time">17:40 - 18:30</td><td class="event"><h3>WORKFLOWS</h3></td><td class="speaker"><h3 style="color:#ed4933" id="interoperability">TOOLS</h3></td>
+                    <tr class="schedule-theme-row">
+                        <td class="time">17:40 - 18:30</td><td class="event"><h3>WORKFLOWS</h3></td><td class="speaker"><h3 id="interoperability">TOOLS</h3></td>
                     </tr>
                     <tr class="schedule-table-project">
                         <td class="time"></td>
@@ -291,8 +291,8 @@ author: Ricardo
                         </td>
                         <td class="speaker">Gildas Le Corguillé</td>
                     </tr>                          
-                    <tr class="schedule-theme-row" style="background-color: lightgray;">
-                        <td class="time">18:30 - 19:00</td><td class="event"><h3>TRAINING MATERIALS</h3></td><td class="speaker"><h3 style="color:#ed4933" id="interoperability">TRAINING</h3></td>
+                    <tr class="schedule-theme-row">
+                        <td class="time">18:30 - 19:00</td><td class="event"><h3>TRAINING MATERIALS</h3></td><td class="speaker"><h3 id="interoperability">TRAINING</h3></td>
                     </tr>
                     <tr class="schedule-table-project">
                         <td class="time"></td>
