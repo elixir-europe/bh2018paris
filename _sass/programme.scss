@@ -21,7 +21,7 @@ td.time {
     margin:0px;
 }
 
-.schedule-theme-row {
+tr.schedule-theme-row {
     background-color:lightgray;
 }
 
@@ -29,14 +29,10 @@ td.time {
     font-size:80%;
 }
 
-.schedule-break-row {
+tr.schedule-break-row td {
     colour: violet;
 }
 
-.schedule-break-row h3 {
-    colour:violet;
-}
-
-.speaker h3 {
+td.speaker h3 {
     color:#ed4933;
 }
