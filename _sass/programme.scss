@@ -21,7 +21,7 @@ td.time {
     margin:0px;
 }
 
-tr.schedule-theme-row {
+table tbody tr.schedule-theme-row td {
     background-color:lightgray;
 }
 
@@ -30,9 +30,9 @@ tr.schedule-theme-row {
 }
 
 tr.schedule-break-row td {
-    colour: violet;
+    color: violet;
 }
 
-td.speaker h3 {
+.wrapper.style5 td.speaker h3 {
     color:#ed4933;
 }
