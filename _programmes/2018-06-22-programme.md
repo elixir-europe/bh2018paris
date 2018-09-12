@@ -8,7 +8,7 @@ author: Ricardo
     <div class="row">
         <div class="col-md-12 day">
             <h3>Symposium - Nov 12</h3>
-<table class="schedule-table">
+            <table class="schedule-table">
                 <tbody>
                     <tr>
                         <td class="time">12:00 - 13:00</td>
@@ -91,7 +91,7 @@ author: Ricardo
                     </tr>                
     		
                     <tr class="schedule-break-row">
-                        <td class="time">14:20 - 14:50</td><td class="event"><h3>COFFEE BREAK</h3></td><td></td>
+                        <td class="time">14:20 - 14:50</td><td class="event">COFFEE BREAK</td><td></td>
                     </tr>                               
                     <tr class="schedule-theme-row">
                         <td class="time">14:50 - 15:10</td><td class="event"><h3>IDENTIFIERS</h3></td><td class="speaker"><h3 id="interoperability">INTEROP</h3></td>
@@ -229,7 +229,7 @@ author: Ricardo
                         <td class="speaker">Jon Ison</td>
                     </tr>                
                     <tr class="schedule-break-row">
-                        <td class="time">17:00 - 17:30</td><td class="event"><h3>COFFEE BREAK</h3></td><td></td>
+                        <td class="time">17:00 - 17:30</td><td class="event">COFFEE BREAK</td><td></td>
                     </tr>                                 
                     <tr class="schedule-theme-row">
                         <td class="time">17:30 - 17:40</td><td class="event"><h3>VISUALISATION</h3></td><td class="speaker"><h3 id="interoperability">TOOLS</h3></td>
