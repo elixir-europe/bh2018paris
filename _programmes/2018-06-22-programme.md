@@ -323,7 +323,7 @@ author: Ricardo
                     </tr> 
                     
                     <tr class="schedule-break-row">
-                        <td class="time">19:00 - 19:30</td><td class="event"><h3>BREAK</h3></td><td></td>
+                        <td class="time">19:00 - 19:30</td><td class="event">BREAK</td><td></td>
                     </tr>        
 
                     <tr>
