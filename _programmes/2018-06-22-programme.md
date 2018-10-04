@@ -124,7 +124,7 @@ author: Ricardo
                                 <i class="fab fa-github" aria-hidden="true"></i>
                             </a>
                         </td>
-                        <td class="speaker">Hirokazu Chiba</td>
+                        <td class="speaker">Toshiaki Katayama</td>
                     </tr>                
     				<tr class="schedule-table-project">
                         <td class="time"></td>
