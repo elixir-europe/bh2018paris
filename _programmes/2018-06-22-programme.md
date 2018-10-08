@@ -112,7 +112,7 @@ author: Ricardo
                                 <i class="fab fa-github" aria-hidden="true"></i>
                             </a>
                         </td>
-                        <td class="speaker">Richard Shute</td>
+                        <td class="speaker">Carlos Castro Iragorri</td>
                     </tr>                                       
                     <tr class="schedule-theme-row">
                         <td class="time">15:10 - 15:40</td><td class="event"><h3>DATA DISTRIBUTION</h3></td><td class="speaker"><h3 id="interoperability">INTEROP</h3></td>
