@@ -47,7 +47,7 @@ author: Ricardo
                     <tr class="schedule-table-project">
                         <td class="time"></td>
                         <td class="event">
-                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/interoperability/Adding%20Bioschemas%20markup%20to%20data%20repositories%20and%20developing%20tools%20to%20find%2C%20consume%20and%20use%20it" target="_blank">Adding Bioschemas markup to data repositories and developing tools to find, consume and use it
+                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/interoperability/Bioschemas" target="_blank">Adding Bioschemas markup to data repositories and developing tools to find, consume and use it
                                 <i class="fab fa-github" aria-hidden="true"></i>
                             </a>
                         </td>
@@ -65,7 +65,7 @@ author: Ricardo
                     <tr class="schedule-table-project">
                         <td class="time"></td>
                         <td class="event">
-                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/interoperability/From%20Biotea%20to%20Bioschemas:%20definition%20of%20profiles%20required%20to%20represent%20scholarly%20publications" target="_blank">From Biotea to Bioschemas: definition of profiles required to represent scholarly publications
+                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/interoperability/From%20Biotea%20to%20Bioschemas%20-%20definition%20of%20profiles%20required%20to%20represent%20scholarly%20publications" target="_blank">From Biotea to Bioschemas: definition of profiles required to represent scholarly publications
                                 <i class="fab fa-github" aria-hidden="true"></i>
                             </a>
                         </td>
@@ -138,7 +138,7 @@ author: Ricardo
                     <tr class="schedule-table-project">
                         <td class="time"></td>
                         <td class="event">
-                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/interoperability/Prototyping%20the%20new%20PSICQUIC%202.0" target="_blank">Prototyping the new PSICQUIC 2.0
+                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/interoperability/Prototyping%20the%20new%20PSICQUIC%202-0" target="_blank">Prototyping the new PSICQUIC 2.0
                                 <i class="fab fa-github" aria-hidden="true"></i>
                             </a>
                         </td>
@@ -177,7 +177,7 @@ author: Ricardo
     				<tr class="schedule-table-project">
                         <td class="time"></td>
                         <td class="event">
-                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/interoperability/ProtVista%20(protein%20annotation%20viewer)%20extension%20using%20Bioschemas%20data" target="_blank">ProtVista (protein annotation viewer) extension using Bioschemas data
+                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/interoperability/ProtVista%20-protein%20annotation%20viewer-%20extension%20using%20Bioschemas%20data" target="_blank">ProtVista (protein annotation viewer) extension using Bioschemas data
                                 <i class="fab fa-github" aria-hidden="true"></i>
                             </a>
                         </td>
@@ -210,7 +210,7 @@ author: Ricardo
                     <tr class="schedule-table-project">
                         <td class="time"></td>
                         <td class="event">
-                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/tools/Bioconda%20packaging%20of%20the%20%20Regulatory%20Sequence%20Analysis%20Tools%20(RSAT)" target="_blank">Bioconda packaging of the Regulatory Sequence Analysis Tools (RSAT)
+                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/tools/Bioconda%20packaging%20of%20the%20%20Regulatory%20Sequence%20Analysis%20Tools%20RSAT" target="_blank">Bioconda packaging of the Regulatory Sequence Analysis Tools (RSAT)
                                 <i class="fab fa-github" aria-hidden="true"></i>
                             </a>
                         </td>
@@ -258,7 +258,7 @@ author: Ricardo
     				<tr class="schedule-table-project">
                         <td class="time"></td>
                         <td class="event">
-                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/tools/Development%20of%20a%20GA4GH-compliant%2C%20language-agnostic%20workflow%20execution%20service" target="_blank">Development of a GA4GH-compliant, language-agnostic workflow execution service
+                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/tools/Development%20of%20a%20GA4GH-compliant%20language-agnostic%20workflow%20execution%20service" target="_blank">Development of a GA4GH-compliant, language-agnostic workflow execution service
                                 <i class="fab fa-github" aria-hidden="true"></i>
                             </a>
                         </td>
@@ -297,7 +297,7 @@ author: Ricardo
                     <tr class="schedule-table-project">
                         <td class="time"></td>
                         <td class="event">
-                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/training/Alternative%20episodes%20for%20the%204%20Open%20Source%20Software%20(4OSS)%20lesson%20focused%20on%20different%20Open%20Source%20technologies:%20Github%2C%20Docker%2C%20Jupyter%20Notebook%20and%20so%20on" target="_blank">Alternative episodes for the 4 Open Source Software (4OSS) lesson focused on different Open Source technologies: Github, Docker, Jupyter Notebook and so on
+                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/training/Alternative%20episodes%20for%20the%204%20Open%20Source%20Software%204OSS%20lesson%20focused%20on%20different%20Open%20Source%20technologies%20Github%20Docker%20Jupyter%20Notebook%20and%20so%20on" target="_blank">Alternative episodes for the 4 Open Source Software (4OSS) lesson focused on different Open Source technologies: Github, Docker, Jupyter Notebook and so on
                                 <i class="fab fa-github" aria-hidden="true"></i>
                             </a>
                         </td>
