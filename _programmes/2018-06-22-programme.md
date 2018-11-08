@@ -129,7 +129,7 @@ author: Ricardo
     				<tr class="schedule-table-project">
                         <td class="time"></td>
                         <td class="event">
-                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/interoperability/Deposition%20of%20Research%20Assets%20between%20FAIRDOM%20SEEKs%20and%20other%20public%20deposition%20services" target="_blank">Deposition of Research Assets between FAIRDOM SEEK's and other public deposition services
+                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/interoperability/Transfer%20of%20Research%20Assets%20between%20FAIRDOM%20SEEKs" target="_blank">Transfer of Research Assets between FAIRDOM SEEKs
                                 <i class="fab fa-github" aria-hidden="true"></i>
                             </a>
                         </td>
