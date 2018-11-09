@@ -35,11 +35,11 @@ author: Ricardo
     				<tr class="schedule-table-project">
                         <td class="time"></td>
                         <td class="event">
-                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/data/Improve%20Orphanet%20disease%20description%20knowledge%20by%20Phenotypic%20automated%20recognition%20using%20Monarch%20PhenoScrapper" target="_blank">Improve Orphanet disease description knowledge by Phenotypic automated recognition using Monarch PhenoScrapper
+                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/data/Improve%20Orphanet%20disease%20description%20knowledge%20by%20phenotypic%20automated%20recognition%20using%20scrapping%20toolkits" target="_blank">Improve Orphanet disease description knowledge by phenotypic automated recognition using scrapping toolkits
                                 <i class="fab fa-github" aria-hidden="true"></i>
                             </a>
                         </td>
-                        <td class="speaker">Marc Hanauer</td>
+                        <td class="speaker">David Lagorce</td>
                     </tr>                  
                     <tr class="schedule-theme-row">
                         <td class="time">13:30 - 14:20</td><td class="event"><h3>STRUCTURED METADATA</h3></td><td class="speaker"><h3 id="interoperability">INTEROP</h3></td>
@@ -54,15 +54,6 @@ author: Ricardo
                         <td class="speaker">Alasdair Gray</td>
                     </tr>                
     				<tr class="schedule-table-project">
-                        <td class="time"></td>
-                        <td class="event">
-                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/interoperability/Development%20or%20adaption%20of%20tools%20to%20apply%20bioschemas%20to%20Orphanet%20website%20and%20datasets%20output%20for%20the%20rare%20diseases%20community" target="_blank">Development or adaption of tools to apply bioschemas to Orphanet website and datasets output for the rare diseases community
-                                <i class="fab fa-github" aria-hidden="true"></i>
-                            </a>
-                        </td>
-                        <td class="speaker">Marc Hanauer</td>
-                    </tr>
-                    <tr class="schedule-table-project">
                         <td class="time"></td>
                         <td class="event">
                             <a href="https://github.com/elixir-europe/BioHackathon/tree/master/interoperability/From%20Biotea%20to%20Bioschemas%20-%20definition%20of%20profiles%20required%20to%20represent%20scholarly%20publications" target="_blank">From Biotea to Bioschemas: definition of profiles required to represent scholarly publications
