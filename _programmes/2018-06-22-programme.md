@@ -339,11 +339,15 @@ author: Ricardo
                         <td class="event">Breakfast</td>
                     </tr>
                     <tr>
-                        <td class="time">09:00 - 11:30</td>
+                        <td class="time">09:00 - 10:30</td>
                         <td class="event">Hack</td>
                     </tr>
                     <tr>
-                        <td class="time">11:30 - 12:00</td>
+                        <td class="time">10:30 - 11:00</td>
+                        <td class="event">Break</td>
+                    </tr>                    
+                    <tr>
+                        <td class="time">11:00 - 12:00</td>
                         <td class="event">Hack</td>
                     </tr>
                     <tr>
@@ -351,15 +355,31 @@ author: Ricardo
                         <td class="event">Lunch</td>
                     </tr>
                     <tr>
-                        <td class="time">13:00 - 19:00</td>
+                        <td class="time">13:00 - 15:30</td>
                         <td class="event">Hack</td>
                     </tr>
+                    <tr>
+                        <td class="time">15:30 - 16:00</td>
+                        <td class="event">Break</td>
+                    </tr>
+                    <tr>
+                        <td class="time">16:00 - 19:00</td>
+                        <td class="event">Hack</td>
+                    </tr>                                                     
                     <tr>
                         <td class="time">19:00 - 20:00</td>
                         <td class="event">Dinner</td>
                     </tr>
                     <tr>
-                        <td class="time">20:00 - 24:00</td>
+                        <td class="time">20:00 - 20:30</td>
+                        <td class="event">Socialisethon</td>
+                    </tr>                    
+                    <tr>
+                        <td class="time">20:30 - 21:00</td>
+                        <td class="event">Drinks</td>
+                    </tr>                    
+                    <tr>
+                        <td class="time">21:00 - 24:00</td>
                         <td class="event">Socialisethon</td>
                     </tr>
                 </tbody>
@@ -374,7 +394,15 @@ author: Ricardo
                         <td class="event">Breakfast</td>
                     </tr>
                     <tr>
-                        <td class="time">09:00 - 11:30</td>
+                        <td class="time">09:00 - 10:30</td>
+                        <td class="event">Hack</td>
+                    </tr>
+                    <tr>
+                        <td class="time">10:30 - 11:00</td>
+                        <td class="event">Break</td>
+                    </tr>                    
+                    <tr>
+                        <td class="time">11:00 - 11:30</td>
                         <td class="event">Hack</td>
                     </tr>
                     <tr>
@@ -386,7 +414,15 @@ author: Ricardo
                         <td class="event">Lunch</td>
                     </tr>
                     <tr>
-                        <td class="time">13:00 - 19:00</td>
+                        <td class="time">13:00 - 15:30</td>
+                        <td class="event">Hack</td>
+                    </tr>
+                    <tr>
+                        <td class="time">15:30 - 16:00</td>
+                        <td class="event">Break</td>
+                    </tr>
+                    <tr>
+                        <td class="time">16:00 - 19:00</td>
                         <td class="event">Hack</td>
                     </tr>
                     <tr>
@@ -394,7 +430,15 @@ author: Ricardo
                         <td class="event">Dinner</td>
                     </tr>
                     <tr>
-                        <td class="time">20:00 - 24:00</td>
+                        <td class="time">20:00 - 20:30</td>
+                        <td class="event">Socialisethon</td>
+                    </tr>                    
+                    <tr>
+                        <td class="time">20:30 - 21:00</td>
+                        <td class="event">Drinks</td>
+                    </tr>                    
+                    <tr>
+                        <td class="time">21:00 - 24:00</td>
                         <td class="event">Socialisethon</td>
                     </tr>
                 </tbody>
@@ -409,7 +453,15 @@ author: Ricardo
                         <td class="event">Breakfast</td>
                     </tr>
                     <tr>
-                        <td class="time">09:00 - 11:30</td>
+                        <td class="time">09:00 - 10:30</td>
+                        <td class="event">Hack</td>
+                    </tr>
+                    <tr>
+                        <td class="time">10:30 - 11:00</td>
+                        <td class="event">Break</td>
+                    </tr>                    
+                    <tr>
+                        <td class="time">11:00 - 11:30</td>
                         <td class="event">Hack</td>
                     </tr>
                     <tr>
@@ -421,7 +473,15 @@ author: Ricardo
                         <td class="event">Lunch</td>
                     </tr>
                     <tr>
-                        <td class="time">13:00 - 19:00</td>
+                        <td class="time">13:00 - 15:30</td>
+                        <td class="event">Hack</td>
+                    </tr>
+                    <tr>
+                        <td class="time">15:30 - 16:00</td>
+                        <td class="event">Break</td>
+                    </tr>
+                    <tr>
+                        <td class="time">16:00 - 19:00</td>
                         <td class="event">Hack</td>
                     </tr>
                     <tr>
@@ -429,7 +489,15 @@ author: Ricardo
                         <td class="event">Dinner</td>
                     </tr>
                     <tr>
-                        <td class="time">20:00 - 24:00</td>
+                        <td class="time">20:00 - 20:30</td>
+                        <td class="event">Socialisethon</td>
+                    </tr>                    
+                    <tr>
+                        <td class="time">20:30 - 21:00</td>
+                        <td class="event">Drinks</td>
+                    </tr>                    
+                    <tr>
+                        <td class="time">21:00 - 24:00</td>
                         <td class="event">Socialisethon</td>
                     </tr>
                 </tbody>
@@ -444,7 +512,15 @@ author: Ricardo
                         <td class="event">Breakfast</td>
                     </tr>
                     <tr>
-                        <td class="time">09:00 - 11:30</td>
+                        <td class="time">09:00 - 10:30</td>
+                        <td class="event">Hack</td>
+                    </tr>
+                    <tr>
+                        <td class="time">10:30 - 11:00</td>
+                        <td class="event">Break</td>
+                    </tr>                    
+                    <tr>
+                        <td class="time">11:00 - 11:30</td>
                         <td class="event">Hack</td>
                     </tr>
                     <tr>
