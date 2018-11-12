@@ -16,12 +16,12 @@ author: Ricardo
                         <td class="speaker">BH participatns</td>
                     </tr>
                     <tr>
-                        <td class="time">13:00 - 13:10</td>
+                        <td class="time">13:00 - 13:15</td>
                         <td class="event">Opening and welcome</td>
                         <td class="speaker">The Organising Committee</td>
                     </tr>
                     <tr class="schedule-theme-row">
-                        <td class="time">13:10 - 13:30</td><td class="event"><h3>Text mining</h3></td><td class="speaker"><h3 id="data">Data</h3></td>
+                        <td class="time">13:15 - 13:35</td><td class="event"><h3>Text mining</h3></td><td class="speaker"><h3 id="data">Data</h3></td>
                     </tr>
                     <tr class="schedule-table-project">
                         <td class="time"></td>
@@ -42,7 +42,7 @@ author: Ricardo
                         <td class="speaker">Marc Hanauer</td>
                     </tr>                  
                     <tr class="schedule-theme-row">
-                        <td class="time">13:30 - 14:20</td><td class="event"><h3>STRUCTURED METADATA</h3></td><td class="speaker"><h3 id="interoperability">INTEROP</h3></td>
+                        <td class="time">13:35 - 14:20</td><td class="event"><h3>STRUCTURED METADATA</h3></td><td class="speaker"><h3 id="interoperability">INTEROP</h3></td>
                     </tr>
                     <tr class="schedule-table-project">
                         <td class="time"></td>
@@ -53,15 +53,6 @@ author: Ricardo
                         </td>
                         <td class="speaker">Alasdair Gray</td>
                     </tr>                
-    				<tr class="schedule-table-project">
-                        <td class="time"></td>
-                        <td class="event">
-                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/interoperability/Development%20or%20adaption%20of%20tools%20to%20apply%20bioschemas%20to%20Orphanet%20website%20and%20datasets%20output%20for%20the%20rare%20diseases%20community" target="_blank">Development or adaption of tools to apply bioschemas to Orphanet website and datasets output for the rare diseases community
-                                <i class="fab fa-github" aria-hidden="true"></i>
-                            </a>
-                        </td>
-                        <td class="speaker">Marc Hanauer</td>
-                    </tr>
                     <tr class="schedule-table-project">
                         <td class="time"></td>
                         <td class="event">
@@ -321,13 +312,18 @@ author: Ricardo
                         </td>
                         <td class="speaker">Bérénice Batut</td>
                     </tr> 
+                    <tr>
+                        <td class="time">19:00 - 19:15</td>
+                        <td class="event">Japanese Biohackathon Update</td>
+                        <td class="speaker">Toshiaki Katayama</td>
+                    </tr>
                     
                     <tr class="schedule-break-row">
-                        <td class="time">19:00 - 19:30</td><td class="event">BREAK</td><td></td>
+                        <td class="time">19:10 - 19:30</td><td class="event">BREAK</td><td></td>
                     </tr>        
 
                     <tr>
-                        <td class="time">19:30 - 21:00</td>
+                        <td class="time">19:30 - 22:00</td>
                         <td class="event">Dinner</td>
                         <td class="speaker"></td>
                     </tr>
