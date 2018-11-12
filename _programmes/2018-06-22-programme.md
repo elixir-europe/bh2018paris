@@ -369,13 +369,9 @@ author: Ricardo
                     <tr>
                         <td class="time">19:00 - 20:00</td>
                         <td class="event">Dinner</td>
-                    </tr>
+                    </tr>                 
                     <tr>
-                        <td class="time">20:00 - 20:30</td>
-                        <td class="event">Socialisethon</td>
-                    </tr>                    
-                    <tr>
-                        <td class="time">20:30 - 21:00</td>
+                        <td class="time">20:00 - 21:00</td>
                         <td class="event">Drinks</td>
                     </tr>                    
                     <tr>
@@ -428,13 +424,9 @@ author: Ricardo
                     <tr>
                         <td class="time">19:00 - 20:00</td>
                         <td class="event">Dinner</td>
-                    </tr>
+                    </tr>          
                     <tr>
-                        <td class="time">20:00 - 20:30</td>
-                        <td class="event">Socialisethon</td>
-                    </tr>                    
-                    <tr>
-                        <td class="time">20:30 - 21:00</td>
+                        <td class="time">20:00 - 21:00</td>
                         <td class="event">Drinks</td>
                     </tr>                    
                     <tr>
@@ -487,13 +479,9 @@ author: Ricardo
                     <tr>
                         <td class="time">19:00 - 20:00</td>
                         <td class="event">Dinner</td>
-                    </tr>
+                    </tr>                   
                     <tr>
-                        <td class="time">20:00 - 20:30</td>
-                        <td class="event">Socialisethon</td>
-                    </tr>                    
-                    <tr>
-                        <td class="time">20:30 - 21:00</td>
+                        <td class="time">20:00 - 21:00</td>
                         <td class="event">Drinks</td>
                     </tr>                    
                     <tr>
