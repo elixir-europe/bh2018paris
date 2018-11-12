@@ -26,7 +26,7 @@ author: Ricardo
                     <tr class="schedule-table-project">
                         <td class="time"></td>
                         <td class="event">
-                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/data/C-SPARQL%20powered%20querying%20pipeline%20of%20bioRxiv%20publications" target="_blank">C-SPARQL powered querying pipeline of bioRxiv publications
+                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/data/C-SPARQL%20powered%20querying%20pipeline%20of%20bioRxiv%20publications" target="_blank">13.- C-SPARQL powered querying pipeline of bioRxiv publications
                                 <i class="fab fa-github" aria-hidden="true"></i>
                             </a>    
                         </td>
@@ -35,7 +35,7 @@ author: Ricardo
     				<tr class="schedule-table-project">
                         <td class="time"></td>
                         <td class="event">
-                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/data/Improve%20Orphanet%20disease%20description%20knowledge%20by%20Phenotypic%20automated%20recognition%20using%20Monarch%20PhenoScrapper" target="_blank">Improve Orphanet disease description knowledge by Phenotypic automated recognition using Monarch PhenoScrapper
+                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/data/Improve%20Orphanet%20disease%20description%20knowledge%20by%20Phenotypic%20automated%20recognition%20using%20Monarch%20PhenoScrapper" target="_blank">14.- Improve Orphanet disease description knowledge by Phenotypic automated recognition using Monarch PhenoScrapper
                                 <i class="fab fa-github" aria-hidden="true"></i>
                             </a>
                         </td>
@@ -47,7 +47,7 @@ author: Ricardo
                     <tr class="schedule-table-project">
                         <td class="time"></td>
                         <td class="event">
-                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/interoperability/Bioschemas" target="_blank">Adding Bioschemas markup to data repositories and developing tools to find, consume and use it
+                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/interoperability/Bioschemas" target="_blank">11.- Adding Bioschemas markup to data repositories and developing tools to find, consume and use it
                                 <i class="fab fa-github" aria-hidden="true"></i>
                             </a>
                         </td>
@@ -56,7 +56,7 @@ author: Ricardo
                     <tr class="schedule-table-project">
                         <td class="time"></td>
                         <td class="event">
-                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/interoperability/From%20Biotea%20to%20Bioschemas%20-%20definition%20of%20profiles%20required%20to%20represent%20scholarly%20publications" target="_blank">From Biotea to Bioschemas: definition of profiles required to represent scholarly publications
+                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/interoperability/From%20Biotea%20to%20Bioschemas%20-%20definition%20of%20profiles%20required%20to%20represent%20scholarly%20publications" target="_blank">28.- From Biotea to Bioschemas: definition of profiles required to represent scholarly publications
                                 <i class="fab fa-github" aria-hidden="true"></i>
                             </a>
                         </td>
@@ -65,7 +65,7 @@ author: Ricardo
     				<tr class="schedule-table-project">
                         <td class="time"></td>
                         <td class="event">
-                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/interoperability/Pathway%20effect%20prediction%20for%20protein%20targets" target="_blank">Pathway effect prediction for protein targets
+                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/interoperability/Pathway%20effect%20prediction%20for%20protein%20targets" target="_blank">29.- Pathway effect prediction for protein targets
                                 <i class="fab fa-github" aria-hidden="true"></i>
                             </a>
                         </td>
@@ -74,7 +74,7 @@ author: Ricardo
                     <tr class="schedule-table-project">
                         <td class="time"></td>
                         <td class="event">
-                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/interoperability/Putting%20structured%20data%20into%20individual%20entry%20pages%20in%20biological%20database" target="_blank">Putting structured data into individual entry pages in biological database
+                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/interoperability/Putting%20structured%20data%20into%20individual%20entry%20pages%20in%20biological%20database" target="_blank">24.- Putting structured data into individual entry pages in biological database
                                 <i class="fab fa-github" aria-hidden="true"></i>
                             </a>
                         </td>
@@ -90,7 +90,7 @@ author: Ricardo
                     <tr class="schedule-table-project">
                         <td class="time"></td>
                         <td class="event">
-                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/interoperability/Support%20tools%20for%20rapid%20adoption%20of%20compact%20identifiers%20in%20the%20publishing%20process" target="_blank">Support tools for rapid adoption of compact identifiers in the publishing process
+                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/interoperability/Support%20tools%20for%20rapid%20adoption%20of%20compact%20identifiers%20in%20the%20publishing%20process" target="_blank">02.- Support tools for rapid adoption of compact identifiers in the publishing process
                                 <i class="fab fa-github" aria-hidden="true"></i>
                             </a>
                         </td>
@@ -99,7 +99,7 @@ author: Ricardo
     				<tr class="schedule-table-project">
                         <td class="time"></td>
                         <td class="event">
-                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/interoperability/Using%20blockchain%20in%20biomedical%20provenance%20the%20identifiers%20use%20case" target="_blank">Using blockchain in biomedical provenance, the identifiers use case.
+                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/interoperability/Using%20blockchain%20in%20biomedical%20provenance%20the%20identifiers%20use%20case" target="_blank">26.- Using blockchain in biomedical provenance, the identifiers use case.
                                 <i class="fab fa-github" aria-hidden="true"></i>
                             </a>
                         </td>
@@ -111,7 +111,7 @@ author: Ricardo
                     <tr class="schedule-table-project">
                         <td class="time"></td>
                         <td class="event">
-                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/interoperability/Application%20of%20RDF-based%20models%20and%20tools%20for%20enhancing%20interoperable%20use%20of%20biomedical%20resources" target="_blank">Application of RDF-based models and tools for enhancing interoperable use of biomedical resources
+                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/interoperability/Application%20of%20RDF-based%20models%20and%20tools%20for%20enhancing%20interoperable%20use%20of%20biomedical%20resources" target="_blank">23.- Application of RDF-based models and tools for enhancing interoperable use of biomedical resources
                                 <i class="fab fa-github" aria-hidden="true"></i>
                             </a>
                         </td>
@@ -120,7 +120,7 @@ author: Ricardo
     				<tr class="schedule-table-project">
                         <td class="time"></td>
                         <td class="event">
-                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/interoperability/Transfer%20of%20Research%20Assets%20between%20FAIRDOM%20SEEKs" target="_blank">Transfer of Research Assets between FAIRDOM SEEKs
+                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/interoperability/Transfer%20of%20Research%20Assets%20between%20FAIRDOM%20SEEKs" target="_blank">22.- Transfer of Research Assets between FAIRDOM SEEKs
                                 <i class="fab fa-github" aria-hidden="true"></i>
                             </a>
                         </td>
@@ -129,7 +129,7 @@ author: Ricardo
                     <tr class="schedule-table-project">
                         <td class="time"></td>
                         <td class="event">
-                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/interoperability/Prototyping%20the%20new%20PSICQUIC%202-0" target="_blank">Prototyping the new PSICQUIC 2.0
+                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/interoperability/Prototyping%20the%20new%20PSICQUIC%202-0" target="_blank">18.- Prototyping the new PSICQUIC 2.0
                                 <i class="fab fa-github" aria-hidden="true"></i>
                             </a>
                         </td>
@@ -141,7 +141,7 @@ author: Ricardo
                     <tr class="schedule-table-project">
                         <td class="time"></td>
                         <td class="event">
-                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/interoperability/OmicsPath%20Finding%20Relevant%20omics%20datasets%20using%20pathway%20information" target="_blank">OmicsPath: Finding Relevant omics datasets using pathway information
+                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/interoperability/OmicsPath%20Finding%20Relevant%20omics%20datasets%20using%20pathway%20information" target="_blank">01.- OmicsPath: Finding Relevant omics datasets using pathway information
                                 <i class="fab fa-github" aria-hidden="true"></i>
                             </a>
                         </td>
@@ -150,7 +150,7 @@ author: Ricardo
     				<tr class="schedule-table-project">
                         <td class="time"></td>
                         <td class="event">
-                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/interoperability/Exploring%20Pharmacogenomic%20LOD%20for%20Molecular%20Explanations%20of%20Gene-Drug%20Relationships" target="_blank">Exploring Pharmacogenomic LOD for Molecular Explanations of Gene-Drug Relationships
+                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/interoperability/Exploring%20Pharmacogenomic%20LOD%20for%20Molecular%20Explanations%20of%20Gene-Drug%20Relationships" target="_blank">07.- Exploring Pharmacogenomic LOD for Molecular Explanations of Gene-Drug Relationships
                                 <i class="fab fa-github" aria-hidden="true"></i>
                             </a>
                         </td>
@@ -159,7 +159,7 @@ author: Ricardo
                     <tr class="schedule-table-project">
                         <td class="time"></td>
                         <td class="event">
-                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/interoperability/Development%20of%20a%20catalog%20of%20federated%20SPARQL%20queries%20in%20the%20field%20of%20Rare%20Diseases" target="_blank">Development of a catalog of federated SPARQL queries in the field of Rare Diseases
+                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/interoperability/Development%20of%20a%20catalog%20of%20federated%20SPARQL%20queries%20in%20the%20field%20of%20Rare%20Diseases" target="_blank">13.- Development of a catalog of federated SPARQL queries in the field of Rare Diseases
                                 <i class="fab fa-github" aria-hidden="true"></i>
                             </a>
                         </td>
@@ -168,7 +168,7 @@ author: Ricardo
     				<tr class="schedule-table-project">
                         <td class="time"></td>
                         <td class="event">
-                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/interoperability/ProtVista%20-protein%20annotation%20viewer-%20extension%20using%20Bioschemas%20data" target="_blank">ProtVista (protein annotation viewer) extension using Bioschemas data
+                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/interoperability/ProtVista%20-protein%20annotation%20viewer-%20extension%20using%20Bioschemas%20data" target="_blank">25.- ProtVista (protein annotation viewer) extension using Bioschemas data
                                 <i class="fab fa-github" aria-hidden="true"></i>
                             </a>
                         </td>
@@ -180,7 +180,7 @@ author: Ricardo
                     <tr class="schedule-table-project">
                         <td class="time"></td>
                         <td class="event">
-                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/interoperability/Data%20clearinghouse%2C%20validation%20and%20curation%20of%20BioSamples_ENA_Breeding%20API%20endpoints_MAR%20databases" target="_blank">Data clearinghouse, validation and curation of BioSamples/ENA/Breeding API endpoints/MAR databases
+                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/interoperability/Data%20clearinghouse%2C%20validation%20and%20curation%20of%20BioSamples_ENA_Breeding%20API%20endpoints_MAR%20databases" target="_blank">08.- Data clearinghouse, validation and curation of BioSamples/ENA/Breeding API endpoints/MAR databases
                                 <i class="fab fa-github" aria-hidden="true"></i>
                             </a>
                         </td>
@@ -189,7 +189,7 @@ author: Ricardo
     				<tr class="schedule-table-project">
                         <td class="time"></td>
                         <td class="event">
-                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/interoperability/JSON%20schema%20validation%20with%20ontologies" target="_blank">JSON schema validation with ontologies
+                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/interoperability/JSON%20schema%20validation%20with%20ontologies" target="_blank">04.- JSON schema validation with ontologies
                                 <i class="fab fa-github" aria-hidden="true"></i>
                             </a>
                         </td>
@@ -201,7 +201,7 @@ author: Ricardo
                     <tr class="schedule-table-project">
                         <td class="time"></td>
                         <td class="event">
-                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/tools/Bioconda%20packaging%20of%20the%20%20Regulatory%20Sequence%20Analysis%20Tools%20RSAT" target="_blank">Bioconda packaging of the Regulatory Sequence Analysis Tools (RSAT)
+                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/tools/Bioconda%20packaging%20of%20the%20%20Regulatory%20Sequence%20Analysis%20Tools%20RSAT" target="_blank">06.- Bioconda packaging of the Regulatory Sequence Analysis Tools (RSAT)
                                 <i class="fab fa-github" aria-hidden="true"></i>
                             </a>
                         </td>
@@ -213,7 +213,7 @@ author: Ricardo
                     <tr class="schedule-table-project">
                         <td class="time"></td>
                         <td class="event">
-                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/tools/bio.tools%20%26%20EDAM%20drop-in%20hackathon%20%26%20discussions" target="_blank">bio.tools &amp; EDAM drop-in hackathon &amp; discussions
+                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/tools/bio.tools%20%26%20EDAM%20drop-in%20hackathon%20%26%20discussions" target="_blank">03.- bio.tools &amp; EDAM drop-in hackathon &amp; discussions
                                 <i class="fab fa-github" aria-hidden="true"></i>
                             </a>
                         </td>
@@ -228,7 +228,7 @@ author: Ricardo
                     <tr class="schedule-table-project">
                         <td class="time"></td>
                         <td class="event">
-                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/tools/Development%20of%20BioJS%20components" target="_blank">Development of BioJS components
+                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/tools/Development%20of%20BioJS%20components" target="_blank">04.- Development of BioJS components
                                 <i class="fab fa-github" aria-hidden="true"></i>
                             </a>
                         </td>
@@ -240,7 +240,7 @@ author: Ricardo
                     <tr class="schedule-table-project">
                         <td class="time"></td>
                         <td class="event">
-                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/tools/CWL%20support%20in%20Galaxy" target="_blank">CWL support in Galaxy
+                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/tools/CWL%20support%20in%20Galaxy" target="_blank">17.- CWL support in Galaxy
                                 <i class="fab fa-github" aria-hidden="true"></i>
                             </a>
                         </td>
@@ -249,7 +249,7 @@ author: Ricardo
     				<tr class="schedule-table-project">
                         <td class="time"></td>
                         <td class="event">
-                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/tools/Development%20of%20a%20GA4GH-compliant%20language-agnostic%20workflow%20execution%20service" target="_blank">Development of a GA4GH-compliant, language-agnostic workflow execution service
+                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/tools/Development%20of%20a%20GA4GH-compliant%20language-agnostic%20workflow%20execution%20service" target="_blank">15.- Development of a GA4GH-compliant, language-agnostic workflow execution service
                                 <i class="fab fa-github" aria-hidden="true"></i>
                             </a>
                         </td>
@@ -258,7 +258,7 @@ author: Ricardo
                     <tr class="schedule-table-project">
                         <td class="time"></td>
                         <td class="event">
-                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/tools/Enrichment%20and%20propagation%20of%20metagenomic%20experimental%20metadata" target="_blank">Enrichment and propagation of metagenomic experimental metadata
+                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/tools/Enrichment%20and%20propagation%20of%20metagenomic%20experimental%20metadata" target="_blank">19.- Enrichment and propagation of metagenomic experimental metadata
                                 <i class="fab fa-github" aria-hidden="true"></i>
                             </a>
                         </td>
@@ -267,7 +267,7 @@ author: Ricardo
     				<tr class="schedule-table-project">
                         <td class="time"></td>
                         <td class="event">
-                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/tools/Import%20workflows%20into%20TeSS%20Concept%20Maps" target="_blank">Import workflows into TeSS Concept Maps
+                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/tools/Import%20workflows%20into%20TeSS%20Concept%20Maps" target="_blank">27.- Import workflows into TeSS Concept Maps
                                 <i class="fab fa-github" aria-hidden="true"></i>
                             </a>
                         </td>
@@ -276,7 +276,7 @@ author: Ricardo
                     <tr class="schedule-table-project">
                         <td class="time"></td>
                         <td class="event">
-                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/tools/Improve%20Shiny%20and%20RStudio%20integration%20within%20Galaxy%20using%20Galaxy%20Interactive%20Environment" target="_blank">Improve Shiny and RStudio integration within Galaxy using Galaxy Interactive Environment
+                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/tools/Improve%20Shiny%20and%20RStudio%20integration%20within%20Galaxy%20using%20Galaxy%20Interactive%20Environment" target="_blank">20.- Improve Shiny and RStudio integration within Galaxy using Galaxy Interactive Environment
                                 <i class="fab fa-github" aria-hidden="true"></i>
                             </a>
                         </td>
@@ -288,7 +288,7 @@ author: Ricardo
                     <tr class="schedule-table-project">
                         <td class="time"></td>
                         <td class="event">
-                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/training/Alternative%20episodes%20for%20the%204%20Open%20Source%20Software%204OSS%20lesson%20focused%20on%20different%20Open%20Source%20technologies%20Github%20Docker%20Jupyter%20Notebook%20and%20so%20on" target="_blank">Alternative episodes for the 4 Open Source Software (4OSS) lesson focused on different Open Source technologies: Github, Docker, Jupyter Notebook and so on
+                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/training/Alternative%20episodes%20for%20the%204%20Open%20Source%20Software%204OSS%20lesson%20focused%20on%20different%20Open%20Source%20technologies%20Github%20Docker%20Jupyter%20Notebook%20and%20so%20on" target="_blank">16.- Alternative episodes for the 4 Open Source Software (4OSS) lesson focused on different Open Source technologies: Github, Docker, Jupyter Notebook and so on
                                 <i class="fab fa-github" aria-hidden="true"></i>
                             </a>
                         </td>
@@ -297,7 +297,7 @@ author: Ricardo
     				<tr class="schedule-table-project">
                         <td class="time"></td>
                         <td class="event">
-                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/training/Assessing%20the%20FAIRness%20of%20Training%20Materials" target="_blank">Assessing the FAIRness of Training Materials
+                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/training/Assessing%20the%20FAIRness%20of%20Training%20Materials" target="_blank">21.- Assessing the FAIRness of Training Materials
                                 <i class="fab fa-github" aria-hidden="true"></i>
                             </a>
                         </td>
@@ -306,7 +306,7 @@ author: Ricardo
                     <tr class="schedule-table-project">
                         <td class="time"></td>
                         <td class="event">
-                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/training/Galaxy%20training%20material%20improvement%20and%20extension" target="_blank">Galaxy training material improvement and extension
+                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/training/Galaxy%20training%20material%20improvement%20and%20extension" target="_blank">10.- Galaxy training material improvement and extension
                                 <i class="fab fa-github" aria-hidden="true"></i>
                             </a>
                         </td>
