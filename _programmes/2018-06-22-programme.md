@@ -376,7 +376,7 @@ author: Ricardo
                     </tr>                    
                     <tr>
                         <td class="time">21:00 - 24:00</td>
-                        <td class="event">Socialisethon</td>
+                        <td class="event">Socialiseathon</td>
                     </tr>
                 </tbody>
             </table>
@@ -431,7 +431,7 @@ author: Ricardo
                     </tr>                    
                     <tr>
                         <td class="time">21:00 - 24:00</td>
-                        <td class="event">Socialisethon</td>
+                        <td class="event">Socialiseathon</td>
                     </tr>
                 </tbody>
             </table>
@@ -486,7 +486,7 @@ author: Ricardo
                     </tr>                    
                     <tr>
                         <td class="time">21:00 - 24:00</td>
-                        <td class="event">Socialisethon</td>
+                        <td class="event">Socialiseathon</td>
                     </tr>
                 </tbody>
             </table>
