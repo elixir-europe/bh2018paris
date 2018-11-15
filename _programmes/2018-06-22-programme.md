@@ -398,19 +398,19 @@ author: Ricardo
                         <td class="event">Break</td>
                     </tr>                    
                     <tr>
-                        <td class="time">11:00 - 11:30</td>
+                        <td class="time">11:00 - 12:00</td>
                         <td class="event">Hack</td>
                     </tr>
                     <tr>
-                        <td class="time">11:30 - 12:00</td>
-                        <td class="event">Report</td>
-                    </tr>
-                    <tr>
-                        <td class="time">12:00 - 13:00</td>
+                        <td class="time">12:00 - 14:00</td>
                         <td class="event">Lunch</td>
                     </tr>
                     <tr>
-                        <td class="time">13:00 - 15:30</td>
+                        <td class="time">14:00 - 14:30</td>
+                        <td class="event">Report</td>
+                    </tr>
+                    <tr>
+                        <td class="time">14:30 - 15:30</td>
                         <td class="event">Hack</td>
                     </tr>
                     <tr>
@@ -453,19 +453,19 @@ author: Ricardo
                         <td class="event">Break</td>
                     </tr>                    
                     <tr>
-                        <td class="time">11:00 - 11:30</td>
+                        <td class="time">11:00 - 12:00</td>
                         <td class="event">Hack</td>
                     </tr>
                     <tr>
-                        <td class="time">11:30 - 12:00</td>
-                        <td class="event">Report</td>
-                    </tr>
-                    <tr>
-                        <td class="time">12:00 - 13:00</td>
+                        <td class="time">12:00 - 14:00</td>
                         <td class="event">Lunch</td>
                     </tr>
                     <tr>
-                        <td class="time">13:00 - 15:30</td>
+                        <td class="time">14:00 - 14:30</td>
+                        <td class="event">Report</td>
+                    </tr>
+                    <tr>
+                        <td class="time">14:30 - 15:30</td>
                         <td class="event">Hack</td>
                     </tr>
                     <tr>
