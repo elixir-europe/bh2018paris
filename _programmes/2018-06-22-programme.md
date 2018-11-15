@@ -17,7 +17,7 @@ author: Ricardo
                     </tr>
                     <tr>
                         <td class="time">13:00 - 13:15</td>
-                        <td class="event">Opening and welcome</td>
+                        <td class="event"><a href="https://github.com/elixir-europe/BioHackathon/blob/master/_reports/bh2018paris-elixir-welcomme.pptx">Opening and welcome</a></td>
                         <td class="speaker">The Organising Committee</td>
                     </tr>
                     <tr class="schedule-theme-row">
@@ -314,7 +314,7 @@ author: Ricardo
                     </tr> 
                     <tr>
                         <td class="time">19:00 - 19:15</td>
-                        <td class="event">Japanese Biohackathon Update</td>
+                        <td class="event"><a href="https://github.com/elixir-europe/BioHackathon/blob/master/_reports/bh2018paris-Collaboration-of-ELIXIR-Japan-Biohackathons.pdf">Japanese Biohackathon Update</a></td>
                         <td class="speaker">Toshiaki Katayama</td>
                     </tr>
                     
@@ -340,15 +340,15 @@ author: Ricardo
                     </tr>
                     <tr>
                         <td class="time">09:00 - 10:30</td>
-                        <td class="event">Hack</td>
+                        <td class="event"><b>Hack</b></td>
                     </tr>
-                    <tr>
+                    <tr class="schedule-break-row">
                         <td class="time">10:30 - 11:00</td>
                         <td class="event">Break</td>
                     </tr>                    
                     <tr>
                         <td class="time">11:00 - 12:00</td>
-                        <td class="event">Hack</td>
+                        <td class="event"><b>Hack</b></td>
                     </tr>
                     <tr>
                         <td class="time">12:00 - 13:00</td>
@@ -356,15 +356,15 @@ author: Ricardo
                     </tr>
                     <tr>
                         <td class="time">13:00 - 15:30</td>
-                        <td class="event">Hack</td>
+                        <td class="event"><b>Hack</b></td>
                     </tr>
-                    <tr>
+                    <tr class="schedule-break-row">
                         <td class="time">15:30 - 16:00</td>
                         <td class="event">Break</td>
                     </tr>
                     <tr>
                         <td class="time">16:00 - 19:00</td>
-                        <td class="event">Hack</td>
+                        <td class="event"><b>Hack</b></td>
                     </tr>                                                     
                     <tr>
                         <td class="time">19:00 - 20:00</td>
@@ -391,15 +391,15 @@ author: Ricardo
                     </tr>
                     <tr>
                         <td class="time">09:00 - 10:30</td>
-                        <td class="event">Hack</td>
+                        <td class="event"><b>Hack</b></td>
                     </tr>
-                    <tr>
+                   <tr class="schedule-break-row">
                         <td class="time">10:30 - 11:00</td>
                         <td class="event">Break</td>
                     </tr>                    
                     <tr>
                         <td class="time">11:00 - 12:00</td>
-                        <td class="event">Hack</td>
+                        <td class="event"><b>Hack</b></td>
                     </tr>
                     <tr>
                         <td class="time">12:00 - 14:00</td>
@@ -407,19 +407,19 @@ author: Ricardo
                     </tr>
                     <tr>
                         <td class="time">14:00 - 14:30</td>
-                        <td class="event">Report</td>
+                        <td class="event"><a href="https://github.com/elixir-europe/BioHackathon/blob/master/_reports/bh2018paris-report-day3-nov14.pptx">Report</a></td>
                     </tr>
                     <tr>
                         <td class="time">14:30 - 15:30</td>
-                        <td class="event">Hack</td>
+                        <td class="event"><b>Hack</b></td>
                     </tr>
-                    <tr>
+                    <tr class="schedule-break-row">
                         <td class="time">15:30 - 16:00</td>
                         <td class="event">Break</td>
                     </tr>
                     <tr>
                         <td class="time">16:00 - 19:00</td>
-                        <td class="event">Hack</td>
+                        <td class="event"><b>Hack</b></td>
                     </tr>
                     <tr>
                         <td class="time">19:00 - 20:00</td>
@@ -446,15 +446,15 @@ author: Ricardo
                     </tr>
                     <tr>
                         <td class="time">09:00 - 10:30</td>
-                        <td class="event">Hack</td>
+                        <td class="event"><b>Hack</b></td>
                     </tr>
-                    <tr>
+                    <tr class="schedule-break-row">
                         <td class="time">10:30 - 11:00</td>
                         <td class="event">Break</td>
                     </tr>                    
                     <tr>
                         <td class="time">11:00 - 12:00</td>
-                        <td class="event">Hack</td>
+                        <td class="event"><b>Hack</b></td>
                     </tr>
                     <tr>
                         <td class="time">12:00 - 14:00</td>
@@ -466,15 +466,15 @@ author: Ricardo
                     </tr>
                     <tr>
                         <td class="time">14:30 - 15:30</td>
-                        <td class="event">Hack</td>
+                        <td class="event"><b>Hack</b></td>
                     </tr>
-                    <tr>
+                    <tr class="schedule-break-row">
                         <td class="time">15:30 - 16:00</td>
                         <td class="event">Break</td>
                     </tr>
                     <tr>
                         <td class="time">16:00 - 19:00</td>
-                        <td class="event">Hack</td>
+                        <td class="event"><b>Hack</b></td>
                     </tr>
                     <tr>
                         <td class="time">19:00 - 20:00</td>
@@ -501,15 +501,15 @@ author: Ricardo
                     </tr>
                     <tr>
                         <td class="time">09:00 - 10:30</td>
-                        <td class="event">Hack</td>
+                        <td class="event"><b>Hack</b></td>
                     </tr>
-                    <tr>
+                    <tr class="schedule-break-row">
                         <td class="time">10:30 - 11:00</td>
                         <td class="event">Break</td>
                     </tr>                    
                     <tr>
                         <td class="time">11:00 - 11:30</td>
-                        <td class="event">Hack</td>
+                        <td class="event"><b>Hack</b></td>
                     </tr>
                     <tr>
                         <td class="time">11:30 - 12:00</td>
