@@ -462,7 +462,7 @@ author: Ricardo
                     </tr>
                     <tr>
                         <td class="time">14:00 - 14:30</td>
-                        <td class="event">Report</td>
+                        <td class="event"><a href="https://github.com/elixir-europe/BioHackathon/blob/master/_reports/README.md">Report</a></td>
                     </tr>
                     <tr>
                         <td class="time">14:30 - 15:30</td>
