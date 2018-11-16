@@ -35,7 +35,7 @@ author: Ricardo
     				<tr class="schedule-table-project">
                         <td class="time"></td>
                         <td class="event">
-                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/data/Improve%20Orphanet%20disease%20description%20knowledge%20by%20Phenotypic%20automated%20recognition%20using%20Monarch%20PhenoScrapper" target="_blank">14.- Improve Orphanet disease description knowledge by Phenotypic automated recognition using Monarch PhenoScrapper
+                            <a href="https://github.com/elixir-europe/BioHackathon/tree/master/data/Improve%20Orphanet%20disease%20description%20knowledge%20by%20phenotypic%20automated%20recognition%20using%20scrapping%20toolkits" target="_blank">14.- Improve Orphanet disease description knowledge by phenotypic automated recognition using scrapping toolkits
                                 <i class="fab fa-github" aria-hidden="true"></i>
                             </a>
                         </td>
