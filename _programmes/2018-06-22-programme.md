@@ -39,7 +39,7 @@ author: Ricardo
                                 <i class="fab fa-github" aria-hidden="true"></i>
                             </a>
                         </td>
-                        <td class="speaker">Marc Hanauer</td>
+                        <td class="speaker">David Lagorce</td>
                     </tr>                  
                     <tr class="schedule-theme-row">
                         <td class="time">13:35 - 14:20</td><td class="event"><h3>STRUCTURED METADATA</h3></td><td class="speaker"><h3 id="interoperability">INTEROP</h3></td>
