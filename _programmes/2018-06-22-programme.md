@@ -407,7 +407,7 @@ author: Ricardo
                     </tr>
                     <tr>
                         <td class="time">14:00 - 14:30</td>
-                        <td class="event"><a href="https://github.com/elixir-europe/BioHackathon/blob/master/_reports/bh2018paris-report-day3-nov14.pptx">Report</a></td>
+                        <td class="event"><a href="https://github.com/elixir-europe/BioHackathon/tree/master/_reports">Report</a></td>
                     </tr>
                     <tr>
                         <td class="time">14:30 - 15:30</td>
@@ -462,7 +462,7 @@ author: Ricardo
                     </tr>
                     <tr>
                         <td class="time">14:00 - 14:30</td>
-                        <td class="event"><a href="https://github.com/elixir-europe/BioHackathon/blob/master/_reports/README.md">Report</a></td>
+                        <td class="event"><a href="https://github.com/elixir-europe/BioHackathon/tree/master/_reports">Report</a></td>
                     </tr>
                     <tr>
                         <td class="time">14:30 - 15:30</td>
@@ -513,7 +513,7 @@ author: Ricardo
                     </tr>
                     <tr>
                         <td class="time">11:30 - 12:00</td>
-                        <td class="event">Report</td>
+                        <td class="event"><a href="https://github.com/elixir-europe/BioHackathon/tree/master/_reports">Report</a></td>
                     </tr>
                     <tr>
                         <td class="time">12:00 - 13:00</td>
