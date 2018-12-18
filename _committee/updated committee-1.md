@@ -7,7 +7,7 @@ author: Ricardo
 
 **NAME**|**INSTITUTE**|**Responsibility**
 :-----|:-----:|-----:
-Victoria Dominguez Del Angel|Elixir-FR/[IFB](https://www.france-bioinformatique.fr/ "IFB")|Local organiser/Social activities coordinator/Collocated meetings coordinator
+Victoria Dominguez Del Angel|ELIXIR-FR/[IFB](https://www.france-bioinformatique.fr/ "IFB")|Local organiser/Social activities coordinator/Collocated meetings coordinator
 Rafa C Jimenez|ELIXIR Hub|Programme lead
 Toshiaki Katayama|DBCLS|Advisor/Representative of the Japanese Biohackathon organising committee
 Leyla J Garcia|EMBL-EBI|Advisor/Selection of hacking topics coordinator
