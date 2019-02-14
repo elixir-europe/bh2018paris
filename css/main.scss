@@ -1439,41 +1439,49 @@ body.is-menu-visible {
 	overflow: hidden;
 	position: relative;
 	text-align: center;
-	h2 {
-		@include vendor('transform',
-		'scale(1)');
-		@include vendor('transition',
-		('transform 0.5s ease',
-		'opacity 0.5s ease',
-		'color 7s ease'));
+	.title {
+		color: _palette(accent6, fg-bold);
 		display: inline-block;
-		font-size: 1.75em;
-		opacity: 1;
-		padding: 0.35em 1em;
-		position: relative;
-		z-index: 1;
-		color: _palette(fg-bold);
-		&:before,
-		&:after {
+		position: relative;		
+		h2 {
+			@include vendor('transform',
+			'scale(1)');
 			@include vendor('transition',
-			'width 0.85s ease');
-			@include vendor('transition-delay',
-			'0.25s');
-			background: _palette(fg-bold);
-			content: '';
-			display: block;
-			height: 2px;
-			position: absolute;
-			width: 100%;
+			('transform 0.5s ease',
+			'opacity 0.5s ease',
+			'color 7s ease'));
+			font-size: 1.75em;
+			opacity: 1;
+			padding: 0.35em 1em;
+			position: relative;
+			z-index: 1;
+			color: _palette(fg-bold);
+			&:before,
+			&:after {
+				@include vendor('transition',
+				'width 0.85s ease');
+				@include vendor('transition-delay',
+				'0.25s');
+				background: _palette(fg-bold);
+				content: '';
+				display: block;
+				height: 2px;
+				position: absolute;
+				width: 100%;
+			}
+			&:before {
+				top: 0;
+				left: 0;
+			}
+			&:after {
+				bottom: 0;
+				right: 0;
+			}			
 		}
-		&:before {
-			top: 0;
-			left: 0;
-		}
-		&:after {
-			bottom: 0;
-			right: 0;
-		}
+
+		img {
+			max-width: 35%;
+		}			
 	}
 	p {
 		letter-spacing: _size(letter-spacing-alt); // text-transform: uppercase;
