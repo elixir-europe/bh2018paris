@@ -1344,6 +1344,14 @@ body.is-menu-visible {
 	top: 0;
 	width: 100%;
 	z-index: _misc(z-index-base);
+	.logo {
+		margin: 1px 0 0 2em;
+		height: 100%;		
+		img {
+			width: auto;
+			height: 100%;
+		}
+	}
 	h1 {
 		@include vendor('transition',
 		'opacity #{_duration(transitions)} ease');
@@ -1416,11 +1424,11 @@ body.is-menu-visible {
 	}
 	&.alt {
 		background: transparent;
-		h1 {
+		h1, .logo {
 			@include vendor('pointer-events',
 			'none');
 			opacity: 0;
-		}
+		}		
 	}
 }
 
